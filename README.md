@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 I'm Currently Working on Upwork<br>📫 I'm seeking collaboration to develop together<br>🌍 I'm Looking to Help with Developing a Back-End
+👩‍💻 I'm Currently Working on Upwork<br>📫 I'm seeking collaboration to develop together<br>🌍 I'm Looking for Developing a Back-End or Mobile Application
 
 
 ## 🌐 Socials:
