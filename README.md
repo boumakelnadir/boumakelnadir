@@ -9,14 +9,15 @@
 </table>
 
 ### 👋 Hello, I'm Nadir Boumakel
-**Software Engineering Student & Desktop/Mobile Developer**
+**Dedicated Self-Taught Software Developer**
 
-I am a passionate software developer from Algeria 🇩🇿, currently focusing on building robust Desktop applications and cross-platform Mobile solutions. I love turning complex logic into clean, efficient, and user-friendly code.
+I am a passionate developer from Algeria 🇩🇿. I have chosen the path of self-education, dedicating my full time to mastering software engineering through independent study and building real-world projects. I believe that skills and logic are the true currency of a developer.
 
-- 🎓 **Currently:** 3rd-year Secondary School Student (Independent SE Learner).
-- 💻 **Focusing on:** Advanced C#, OOP Principles, and Flutter/Dart.
-- 🚀 **Current Goal:** Mastering Software Architecture and Backend Development.
-- ⚡ **Fun Fact:** I enjoy solving logical puzzles through game development (like my C++ and C# projects).
+- 🚀 **Current Status:** Full-time Self-Taught Learner (Focusing on CS fundamentals).
+- 💻 **Core Expertise:** Advanced C#, OOP Principles, and Desktop App Development.
+- 📱 **Expanding to:** Mobile Development with Flutter/Dart.
+- 🎯 **Goal:** Building high-performance software solutions and mastering Backend architecture.
+- ⚡ **Philosophy:** "Code is craft; logic is its foundation."
 
 ---
 
@@ -30,15 +31,15 @@ I am a passionate software developer from Algeria 🇩🇿, currently focusing o
 
 ## 💻 Tech Stack
 
-### 📱 Mobile & Frontend
+### 🖥️ Desktop & Systems
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 📱 Mobile & Design
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### 🖥️ Desktop & Backend
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ---
