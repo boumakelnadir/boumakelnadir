@@ -9,15 +9,15 @@
 </table>
 
 ### 👋 Hello, I'm Nadir Boumakel
-**Dedicated Self-Taught Software Developer**
+**Dedicated Self-Taught Software Developer & Logic Enthusiast**
 
-I am a passionate developer from Algeria 🇩🇿. I have chosen the path of self-education, dedicating my full time to mastering software engineering through independent study and building real-world projects. I believe that skills and logic are the true currency of a developer.
+I am a passionate developer from Algeria 🇩🇿, focusing on low-level logic and high-level application architecture. I have dedicated my time to mastering software engineering from the ground up, with a deep interest in how data is structured and processed efficiently.
 
-- 🚀 **Current Status:** Full-time Self-Taught Learner (Focusing on CS fundamentals).
-- 💻 **Core Expertise:** Advanced C#, OOP Principles, and Desktop App Development.
-- 📱 **Expanding to:** Mobile Development with Flutter/Dart.
-- 🎯 **Goal:** Building high-performance software solutions and mastering Backend architecture.
-- ⚡ **Philosophy:** "Code is craft; logic is its foundation."
+- 🚀 **Current Status:** Full-time Self-Taught Learner (Deep diving into CS fundamentals).
+- 💻 **Core Expertise:** Advanced C#, OOP, and C++ Development.
+- 🏗️ **Computer Science Foundations:** Strong focus on **Data Structures & Algorithms** using C++.
+- 🎯 **Current Goal:** Mastering Software Architecture and Advanced System Design.
+- ⚡ **Fun Fact:** I love recreating classic games to test my logic and data management skills.
 
 ---
 
@@ -31,15 +31,14 @@ I am a passionate developer from Algeria 🇩🇿. I have chosen the path of sel
 
 ## 💻 Tech Stack
 
-### 🖥️ Desktop & Systems
+### 🖥️ Systems & Logic
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 📱 Mobile & Design
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ---
